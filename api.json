@@ -1,10 +1,8 @@
 {
-  "category": "CRYPTID",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/cactus-cat",
     "maintainers": [
       {
@@ -18,144 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "cactus-cat",
     "name": "Cactus Cat",
     "aliases": [],
     "category": "CRYPTID",
-    "subcategory": "Fearsome Critter",
+    "subcategory": "of tall tale creature invented by American lumberjacks and outdoor workers. These absurd beings were described to greenhorns (new workers) as genuine local hazards, serving as both entertainment and hazing ritual.",
     "tags": [
-      "fearsome-critter",
-      "lumberjack-folklore",
-      "southwest",
-      "feline",
-      "humorous",
-      "tall-tale"
+      "folklore",
+      "mythology"
     ],
-    "status": "folklore",
+    "status": "documented",
     "description": {
-      "summary": "A bobcat-like creature with thorny fur and a spiny tail, said to slash cacti to drink their fermented sap, becoming intoxicated and howling through the desert night.",
-      "full": "The Cactus Cat is a fearsome critter from American lumberjack folklore, adapted for the southwestern deserts. This cat-sized creature sports thorny, cactus-like fur and a branched tail covered in sharp spines. According to the tales, it roams the desert at night slashing cacti with its spine-covered front legs, allowing the sap to ferment. Days later, it returns to drink the fermented juice, becoming wildly drunk and producing unearthly screams and howls. The Cactus Cat is a classic example of occupational folklore used by experienced workers to haze newcomers with absurd tall tales presented as local hazards."
+      "summary": "The Cactus Cat is a humorous creature from American lumberjack folklore, representing the fearsome critters tradition adapted for desert environments.",
+      "full": "The Cactus Cat is a humorous creature from American lumberjack folklore, representing the fearsome critters tradition adapted for desert environments. This bobcat-sized animal is covered in cactus-like thorns and spines, with a distinctive branched tail armed with sharp points. According to the tall tales, the Cactus Cat prowls the desert at night, using its armored front legs to slash barrel cacti and saguaros. The cactus sap oozes out and ferments in the desert heat. Days later, the Cactus Cat returns to drink the alcoholic juice, becoming thoroughly intoxicated. In its drunken state, it produces terrifying screams and howls that echo through the canyons."
     },
     "etymology": {
-      "origin": "American lumberjack folklore, early 20th century",
-      "meaning": "Named for its cactus-like spines and desert habitat",
-      "first_use": "circa 1910"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "CRYPTID",
-      "type": "Fearsome Critter",
-      "subtype": "Feline",
-      "variant": "Southwestern"
+      "type": "of tall tale creature invented by American lumberjacks and outdoor workers. These absurd beings were described to greenhorns (new workers) as genuine local hazards, serving as both entertainment and hazing ritual.",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "wampus-cat",
-        "name": "Wampus Cat",
-        "relationship": "similar",
-        "description": "Another fearsome feline from Appalachian folklore"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "size": "Bobcat-sized",
-      "coloration": ["greenish-gray", "cactus-colored"],
-      "features": [
-        {
-          "feature": "Thorny fur",
-          "description": "Body covered in cactus-like spines and thorns",
-          "frequency": "always"
-        },
-        {
-          "feature": "Spined tail",
-          "description": "Branching tail covered in sharp spines",
-          "frequency": "always"
-        },
-        {
-          "feature": "Armored legs",
-          "description": "Front legs protected by bony guards for slashing cacti",
-          "frequency": "always"
-        }
-      ],
-      "morphology": "Resembles a bobcat but covered entirely in protective spines similar to cactus needles"
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Cactus slashing",
-        "description": "Uses spined legs to slash cacti and release sap",
-        "frequency": "common",
-        "evidence_level": "folklore"
-      },
-      {
-        "ability": "Intoxication resistance",
-        "description": "Can consume large amounts of fermented cactus sap",
-        "frequency": "common",
-        "evidence_level": "folklore"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "activity_period": "nocturnal",
-      "disposition": "neutral when sober, aggressive when drunk",
-      "social_structure": "solitary",
-      "habitat_preference": ["desert", "cactus groves"],
-      "diet": "Fermented cactus sap",
-      "patterns": [
-        "Slashes cacti to start fermentation",
-        "Returns days later to drink",
-        "Screams and howls when intoxicated",
-        "Avoids humans except when drunk"
-      ]
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Southwestern United States deserts, particularly Arizona",
-      "continents": ["North America"],
-      "countries": ["United States"],
-      "regions": ["Arizona", "New Mexico", "Southwest"]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "1910",
+        "date": "Unknown",
         "circa": true,
-        "source": "Lumberjack tall tale collections"
+        "source": "Traditional folklore"
       }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "American occupational folklore from lumber camps",
-      "folklore_connections": "Part of fearsome critters tradition used to haze greenhorn workers"
-    }
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
   },
-
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
   "cultural": {
     "folklore": {
-      "traditions": ["Lumberjack tall tales"],
-      "beliefs": "Never believed literally; created for entertainment and hazing newcomers"
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "Fearsome Creatures of the Lumberwoods by William T. Cox (1910)"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "sources": [
-    {
-      "id": "cox-1910",
-      "type": "book",
-      "title": "Fearsome Creatures of the Lumberwoods",
-      "authors": ["William T. Cox"],
-      "date": "1910"
-    }
-  ]
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }
